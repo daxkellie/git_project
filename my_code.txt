@@ -3,6 +3,6 @@ This is the second line
 This is the third line
 This is the fourth line 4 realz
 This is the fifth line
-YO YO YO HEY IT'S ME SIXTH LINE WUDDUP
-
+This is the sixth line
+This is not the sixth line, it's the seventh line
 This is the eighth line (eighth is a weird word, btw)
